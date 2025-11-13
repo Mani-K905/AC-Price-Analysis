@@ -11,7 +11,6 @@ We use **Python** for web scraping, data cleaning, and visualization to uncover 
 We are a team of **B.Tech graduates in Electronics and Communication Engineering (ECE)** and aspiring **data analysts** passionate about turning raw data into insights.
 
 **Team Members:**
-- **Surya Namburi** – [LinkedIn](https://www.linkedin.com/in/suryaprakashnamburi/)
 - **Mani K** – [LinkedIn](https://www.linkedin.com/in/mani-k-79b359345/)
 
 ---
