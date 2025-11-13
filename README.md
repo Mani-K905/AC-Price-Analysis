@@ -8,7 +8,8 @@ We are a team of B.Tech graduates in Electronics and Communication Engineering (
 
 Team Members:
 
-Mani K – LinkedIn
+- Mani K – LinkedIn
+
 🧠 Business Problem
 Consumers often face challenges in selecting the right AC due to varying brands, prices, and features.
 Retailers and marketers also need pricing trend insights to stay competitive.
